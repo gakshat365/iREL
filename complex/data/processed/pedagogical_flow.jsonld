@@ -1,0 +1,1344 @@
+{
+    "@context": "https://schema.org/",
+    "@type": "EducationalOccupationalProgram",
+    "hasCourse": [
+        {
+            "@type": "Course",
+            "@id": "#tape-head",
+            "name": "tape head",
+            "educationalAlignment": []
+        },
+        {
+            "@type": "Course",
+            "@id": "#tape",
+            "name": "tape",
+            "educationalAlignment": [
+                {
+                    "@type": "AlignmentObject",
+                    "alignmentType": "prerequisite",
+                    "targetName": "language parse",
+                    "educationalFramework": "PedagogicalFlow",
+                    "confidence": 0.24,
+                    "signal": "positional_refd",
+                    "evidence": "Positional offset evidence across corpus."
+                },
+                {
+                    "@type": "AlignmentObject",
+                    "alignmentType": "prerequisite",
+                    "targetName": "parse state",
+                    "educationalFramework": "PedagogicalFlow",
+                    "confidence": 0.24,
+                    "signal": "positional_refd",
+                    "evidence": "Positional offset evidence across corpus."
+                },
+                {
+                    "@type": "AlignmentObject",
+                    "alignmentType": "prerequisite",
+                    "targetName": "tape note",
+                    "educationalFramework": "PedagogicalFlow",
+                    "confidence": 0.24,
+                    "signal": "positional_refd",
+                    "evidence": "Positional offset evidence across corpus."
+                }
+            ]
+        },
+        {
+            "@type": "Course",
+            "@id": "#string",
+            "name": "string",
+            "educationalAlignment": [
+                {
+                    "@type": "AlignmentObject",
+                    "alignmentType": "prerequisite",
+                    "targetName": "tape state",
+                    "educationalFramework": "PedagogicalFlow",
+                    "confidence": 0.36,
+                    "signal": "positional_refd",
+                    "evidence": "Positional offset evidence across corpus."
+                },
+                {
+                    "@type": "AlignmentObject",
+                    "alignmentType": "prerequisite",
+                    "targetName": "head tape",
+                    "educationalFramework": "PedagogicalFlow",
+                    "confidence": 0.4,
+                    "signal": "positional_refd",
+                    "evidence": "Positional offset evidence across corpus."
+                },
+                {
+                    "@type": "AlignmentObject",
+                    "alignmentType": "prerequisite",
+                    "targetName": "head parse",
+                    "educationalFramework": "PedagogicalFlow",
+                    "confidence": 0.36,
+                    "signal": "positional_refd",
+                    "evidence": "Positional offset evidence across corpus."
+                },
+                {
+                    "@type": "AlignmentObject",
+                    "alignmentType": "prerequisite",
+                    "targetName": "language parse",
+                    "educationalFramework": "PedagogicalFlow",
+                    "confidence": 0.24,
+                    "signal": "positional_refd",
+                    "evidence": "Positional offset evidence across corpus."
+                },
+                {
+                    "@type": "AlignmentObject",
+                    "alignmentType": "prerequisite",
+                    "targetName": "tree",
+                    "educationalFramework": "PedagogicalFlow",
+                    "confidence": 0.4,
+                    "signal": "positional_refd",
+                    "evidence": "Positional offset evidence across corpus."
+                },
+                {
+                    "@type": "AlignmentObject",
+                    "alignmentType": "prerequisite",
+                    "targetName": "state head",
+                    "educationalFramework": "PedagogicalFlow",
+                    "confidence": 0.4,
+                    "signal": "positional_refd",
+                    "evidence": "Positional offset evidence across corpus."
+                },
+                {
+                    "@type": "AlignmentObject",
+                    "alignmentType": "prerequisite",
+                    "targetName": "parse state",
+                    "educationalFramework": "PedagogicalFlow",
+                    "confidence": 0.24,
+                    "signal": "positional_refd",
+                    "evidence": "Positional offset evidence across corpus."
+                },
+                {
+                    "@type": "AlignmentObject",
+                    "alignmentType": "prerequisite",
+                    "targetName": "karoge tape",
+                    "educationalFramework": "PedagogicalFlow",
+                    "confidence": 0.24,
+                    "signal": "positional_refd",
+                    "evidence": "Positional offset evidence across corpus."
+                },
+                {
+                    "@type": "AlignmentObject",
+                    "alignmentType": "prerequisite",
+                    "targetName": "grammar",
+                    "educationalFramework": "PedagogicalFlow",
+                    "confidence": 0.36,
+                    "signal": "positional_refd",
+                    "evidence": "Positional offset evidence across corpus."
+                }
+            ]
+        },
+        {
+            "@type": "Course",
+            "@id": "#tape-state",
+            "name": "tape state",
+            "educationalAlignment": [
+                {
+                    "@type": "AlignmentObject",
+                    "alignmentType": "prerequisite",
+                    "targetName": "language",
+                    "educationalFramework": "PedagogicalFlow",
+                    "confidence": 0.36,
+                    "signal": "positional_refd",
+                    "evidence": "Positional offset evidence across corpus."
+                },
+                {
+                    "@type": "AlignmentObject",
+                    "alignmentType": "prerequisite",
+                    "targetName": "state",
+                    "educationalFramework": "PedagogicalFlow",
+                    "confidence": 0.36,
+                    "signal": "positional_refd",
+                    "evidence": "Positional offset evidence across corpus."
+                },
+                {
+                    "@type": "AlignmentObject",
+                    "alignmentType": "prerequisite",
+                    "targetName": "tree",
+                    "educationalFramework": "PedagogicalFlow",
+                    "confidence": 0.36,
+                    "signal": "positional_refd",
+                    "evidence": "Positional offset evidence across corpus."
+                },
+                {
+                    "@type": "AlignmentObject",
+                    "alignmentType": "prerequisite",
+                    "targetName": "state head",
+                    "educationalFramework": "PedagogicalFlow",
+                    "confidence": 0.36,
+                    "signal": "positional_refd",
+                    "evidence": "Positional offset evidence across corpus."
+                },
+                {
+                    "@type": "AlignmentObject",
+                    "alignmentType": "prerequisite",
+                    "targetName": "grammar",
+                    "educationalFramework": "PedagogicalFlow",
+                    "confidence": 0.36,
+                    "signal": "positional_refd",
+                    "evidence": "Positional offset evidence across corpus."
+                }
+            ]
+        },
+        {
+            "@type": "Course",
+            "@id": "#head-tape",
+            "name": "head tape",
+            "educationalAlignment": [
+                {
+                    "@type": "AlignmentObject",
+                    "alignmentType": "prerequisite",
+                    "targetName": "tape state",
+                    "educationalFramework": "PedagogicalFlow",
+                    "confidence": 0.24,
+                    "signal": "positional_refd",
+                    "evidence": "Positional offset evidence across corpus."
+                },
+                {
+                    "@type": "AlignmentObject",
+                    "alignmentType": "prerequisite",
+                    "targetName": "tape parse",
+                    "educationalFramework": "PedagogicalFlow",
+                    "confidence": 0.24,
+                    "signal": "positional_refd",
+                    "evidence": "Positional offset evidence across corpus."
+                },
+                {
+                    "@type": "AlignmentObject",
+                    "alignmentType": "prerequisite",
+                    "targetName": "head parse",
+                    "educationalFramework": "PedagogicalFlow",
+                    "confidence": 0.24,
+                    "signal": "positional_refd",
+                    "evidence": "Positional offset evidence across corpus."
+                },
+                {
+                    "@type": "AlignmentObject",
+                    "alignmentType": "prerequisite",
+                    "targetName": "language",
+                    "educationalFramework": "PedagogicalFlow",
+                    "confidence": 0.4,
+                    "signal": "positional_refd",
+                    "evidence": "Positional offset evidence across corpus."
+                },
+                {
+                    "@type": "AlignmentObject",
+                    "alignmentType": "prerequisite",
+                    "targetName": "language head",
+                    "educationalFramework": "PedagogicalFlow",
+                    "confidence": 0.36,
+                    "signal": "positional_refd",
+                    "evidence": "Positional offset evidence across corpus."
+                },
+                {
+                    "@type": "AlignmentObject",
+                    "alignmentType": "prerequisite",
+                    "targetName": "tree string",
+                    "educationalFramework": "PedagogicalFlow",
+                    "confidence": 0.24,
+                    "signal": "positional_refd",
+                    "evidence": "Positional offset evidence across corpus."
+                },
+                {
+                    "@type": "AlignmentObject",
+                    "alignmentType": "prerequisite",
+                    "targetName": "tree",
+                    "educationalFramework": "PedagogicalFlow",
+                    "confidence": 0.4,
+                    "signal": "positional_refd",
+                    "evidence": "Positional offset evidence across corpus."
+                },
+                {
+                    "@type": "AlignmentObject",
+                    "alignmentType": "prerequisite",
+                    "targetName": "grammar",
+                    "educationalFramework": "PedagogicalFlow",
+                    "confidence": 0.24,
+                    "signal": "positional_refd",
+                    "evidence": "Positional offset evidence across corpus."
+                }
+            ]
+        },
+        {
+            "@type": "Course",
+            "@id": "#tape-parse",
+            "name": "tape parse",
+            "educationalAlignment": [
+                {
+                    "@type": "AlignmentObject",
+                    "alignmentType": "prerequisite",
+                    "targetName": "head tape",
+                    "educationalFramework": "PedagogicalFlow",
+                    "confidence": 0.24,
+                    "signal": "positional_refd",
+                    "evidence": "Positional offset evidence across corpus."
+                },
+                {
+                    "@type": "AlignmentObject",
+                    "alignmentType": "prerequisite",
+                    "targetName": "language",
+                    "educationalFramework": "PedagogicalFlow",
+                    "confidence": 0.24,
+                    "signal": "positional_refd",
+                    "evidence": "Positional offset evidence across corpus."
+                },
+                {
+                    "@type": "AlignmentObject",
+                    "alignmentType": "prerequisite",
+                    "targetName": "language head",
+                    "educationalFramework": "PedagogicalFlow",
+                    "confidence": 0.24,
+                    "signal": "positional_refd",
+                    "evidence": "Positional offset evidence across corpus."
+                },
+                {
+                    "@type": "AlignmentObject",
+                    "alignmentType": "prerequisite",
+                    "targetName": "tree string",
+                    "educationalFramework": "PedagogicalFlow",
+                    "confidence": 0.24,
+                    "signal": "positional_refd",
+                    "evidence": "Positional offset evidence across corpus."
+                }
+            ]
+        },
+        {
+            "@type": "Course",
+            "@id": "#head-parse",
+            "name": "head parse",
+            "educationalAlignment": [
+                {
+                    "@type": "AlignmentObject",
+                    "alignmentType": "prerequisite",
+                    "targetName": "head tape",
+                    "educationalFramework": "PedagogicalFlow",
+                    "confidence": 0.24,
+                    "signal": "positional_refd",
+                    "evidence": "Positional offset evidence across corpus."
+                },
+                {
+                    "@type": "AlignmentObject",
+                    "alignmentType": "prerequisite",
+                    "targetName": "language head",
+                    "educationalFramework": "PedagogicalFlow",
+                    "confidence": 0.24,
+                    "signal": "positional_refd",
+                    "evidence": "Positional offset evidence across corpus."
+                },
+                {
+                    "@type": "AlignmentObject",
+                    "alignmentType": "prerequisite",
+                    "targetName": "tree",
+                    "educationalFramework": "PedagogicalFlow",
+                    "confidence": 0.36,
+                    "signal": "positional_refd",
+                    "evidence": "Positional offset evidence across corpus."
+                },
+                {
+                    "@type": "AlignmentObject",
+                    "alignmentType": "prerequisite",
+                    "targetName": "state head",
+                    "educationalFramework": "PedagogicalFlow",
+                    "confidence": 0.24,
+                    "signal": "positional_refd",
+                    "evidence": "Positional offset evidence across corpus."
+                },
+                {
+                    "@type": "AlignmentObject",
+                    "alignmentType": "prerequisite",
+                    "targetName": "grammar",
+                    "educationalFramework": "PedagogicalFlow",
+                    "confidence": 0.24,
+                    "signal": "positional_refd",
+                    "evidence": "Positional offset evidence across corpus."
+                }
+            ]
+        },
+        {
+            "@type": "Course",
+            "@id": "#language",
+            "name": "language",
+            "educationalAlignment": [
+                {
+                    "@type": "AlignmentObject",
+                    "alignmentType": "prerequisite",
+                    "targetName": "tape parse",
+                    "educationalFramework": "PedagogicalFlow",
+                    "confidence": 0.24,
+                    "signal": "positional_refd",
+                    "evidence": "Positional offset evidence across corpus."
+                },
+                {
+                    "@type": "AlignmentObject",
+                    "alignmentType": "prerequisite",
+                    "targetName": "head parse",
+                    "educationalFramework": "PedagogicalFlow",
+                    "confidence": 0.36,
+                    "signal": "positional_refd",
+                    "evidence": "Positional offset evidence across corpus."
+                },
+                {
+                    "@type": "AlignmentObject",
+                    "alignmentType": "prerequisite",
+                    "targetName": "tree string",
+                    "educationalFramework": "PedagogicalFlow",
+                    "confidence": 0.24,
+                    "signal": "positional_refd",
+                    "evidence": "Positional offset evidence across corpus."
+                },
+                {
+                    "@type": "AlignmentObject",
+                    "alignmentType": "prerequisite",
+                    "targetName": "string tape",
+                    "educationalFramework": "PedagogicalFlow",
+                    "confidence": 0.24,
+                    "signal": "positional_refd",
+                    "evidence": "Positional offset evidence across corpus."
+                },
+                {
+                    "@type": "AlignmentObject",
+                    "alignmentType": "prerequisite",
+                    "targetName": "parse state",
+                    "educationalFramework": "PedagogicalFlow",
+                    "confidence": 0.24,
+                    "signal": "positional_refd",
+                    "evidence": "Positional offset evidence across corpus."
+                },
+                {
+                    "@type": "AlignmentObject",
+                    "alignmentType": "prerequisite",
+                    "targetName": "karoge tape",
+                    "educationalFramework": "PedagogicalFlow",
+                    "confidence": 0.24,
+                    "signal": "positional_refd",
+                    "evidence": "Positional offset evidence across corpus."
+                },
+                {
+                    "@type": "AlignmentObject",
+                    "alignmentType": "prerequisite",
+                    "targetName": "vo tape",
+                    "educationalFramework": "PedagogicalFlow",
+                    "confidence": 0.24,
+                    "signal": "positional_refd",
+                    "evidence": "Positional offset evidence across corpus."
+                }
+            ]
+        },
+        {
+            "@type": "Course",
+            "@id": "#language-head",
+            "name": "language head",
+            "educationalAlignment": [
+                {
+                    "@type": "AlignmentObject",
+                    "alignmentType": "prerequisite",
+                    "targetName": "head tape",
+                    "educationalFramework": "PedagogicalFlow",
+                    "confidence": 0.4,
+                    "signal": "positional_refd",
+                    "evidence": "Positional offset evidence across corpus."
+                },
+                {
+                    "@type": "AlignmentObject",
+                    "alignmentType": "prerequisite",
+                    "targetName": "head parse",
+                    "educationalFramework": "PedagogicalFlow",
+                    "confidence": 0.24,
+                    "signal": "positional_refd",
+                    "evidence": "Positional offset evidence across corpus."
+                },
+                {
+                    "@type": "AlignmentObject",
+                    "alignmentType": "prerequisite",
+                    "targetName": "language",
+                    "educationalFramework": "PedagogicalFlow",
+                    "confidence": 0.4,
+                    "signal": "positional_refd",
+                    "evidence": "Positional offset evidence across corpus."
+                },
+                {
+                    "@type": "AlignmentObject",
+                    "alignmentType": "prerequisite",
+                    "targetName": "state",
+                    "educationalFramework": "PedagogicalFlow",
+                    "confidence": 0.4,
+                    "signal": "positional_refd",
+                    "evidence": "Positional offset evidence across corpus."
+                },
+                {
+                    "@type": "AlignmentObject",
+                    "alignmentType": "prerequisite",
+                    "targetName": "parse",
+                    "educationalFramework": "PedagogicalFlow",
+                    "confidence": 0.4,
+                    "signal": "positional_refd",
+                    "evidence": "Positional offset evidence across corpus."
+                },
+                {
+                    "@type": "AlignmentObject",
+                    "alignmentType": "prerequisite",
+                    "targetName": "tree",
+                    "educationalFramework": "PedagogicalFlow",
+                    "confidence": 0.36,
+                    "signal": "positional_refd",
+                    "evidence": "Positional offset evidence across corpus."
+                },
+                {
+                    "@type": "AlignmentObject",
+                    "alignmentType": "prerequisite",
+                    "targetName": "state head",
+                    "educationalFramework": "PedagogicalFlow",
+                    "confidence": 0.24,
+                    "signal": "positional_refd",
+                    "evidence": "Positional offset evidence across corpus."
+                },
+                {
+                    "@type": "AlignmentObject",
+                    "alignmentType": "prerequisite",
+                    "targetName": "grammar",
+                    "educationalFramework": "PedagogicalFlow",
+                    "confidence": 0.24,
+                    "signal": "positional_refd",
+                    "evidence": "Positional offset evidence across corpus."
+                }
+            ]
+        },
+        {
+            "@type": "Course",
+            "@id": "#state",
+            "name": "state",
+            "educationalAlignment": [
+                {
+                    "@type": "AlignmentObject",
+                    "alignmentType": "prerequisite",
+                    "targetName": "head parse",
+                    "educationalFramework": "PedagogicalFlow",
+                    "confidence": 0.36,
+                    "signal": "positional_refd",
+                    "evidence": "Positional offset evidence across corpus."
+                },
+                {
+                    "@type": "AlignmentObject",
+                    "alignmentType": "prerequisite",
+                    "targetName": "language parse",
+                    "educationalFramework": "PedagogicalFlow",
+                    "confidence": 0.24,
+                    "signal": "positional_refd",
+                    "evidence": "Positional offset evidence across corpus."
+                },
+                {
+                    "@type": "AlignmentObject",
+                    "alignmentType": "prerequisite",
+                    "targetName": "string language",
+                    "educationalFramework": "PedagogicalFlow",
+                    "confidence": 0.24,
+                    "signal": "positional_refd",
+                    "evidence": "Positional offset evidence across corpus."
+                },
+                {
+                    "@type": "AlignmentObject",
+                    "alignmentType": "prerequisite",
+                    "targetName": "tree string",
+                    "educationalFramework": "PedagogicalFlow",
+                    "confidence": 0.24,
+                    "signal": "positional_refd",
+                    "evidence": "Positional offset evidence across corpus."
+                }
+            ]
+        },
+        {
+            "@type": "Course",
+            "@id": "#language-parse",
+            "name": "language parse",
+            "educationalAlignment": [
+                {
+                    "@type": "AlignmentObject",
+                    "alignmentType": "prerequisite",
+                    "targetName": "tape",
+                    "educationalFramework": "PedagogicalFlow",
+                    "confidence": 0.24,
+                    "signal": "positional_refd",
+                    "evidence": "Positional offset evidence across corpus."
+                },
+                {
+                    "@type": "AlignmentObject",
+                    "alignmentType": "prerequisite",
+                    "targetName": "language",
+                    "educationalFramework": "PedagogicalFlow",
+                    "confidence": 0.24,
+                    "signal": "positional_refd",
+                    "evidence": "Positional offset evidence across corpus."
+                },
+                {
+                    "@type": "AlignmentObject",
+                    "alignmentType": "prerequisite",
+                    "targetName": "state",
+                    "educationalFramework": "PedagogicalFlow",
+                    "confidence": 0.24,
+                    "signal": "positional_refd",
+                    "evidence": "Positional offset evidence across corpus."
+                }
+            ]
+        },
+        {
+            "@type": "Course",
+            "@id": "#parse",
+            "name": "parse",
+            "educationalAlignment": [
+                {
+                    "@type": "AlignmentObject",
+                    "alignmentType": "prerequisite",
+                    "targetName": "tape state",
+                    "educationalFramework": "PedagogicalFlow",
+                    "confidence": 0.36,
+                    "signal": "positional_refd",
+                    "evidence": "Positional offset evidence across corpus."
+                },
+                {
+                    "@type": "AlignmentObject",
+                    "alignmentType": "prerequisite",
+                    "targetName": "tree string",
+                    "educationalFramework": "PedagogicalFlow",
+                    "confidence": 0.24,
+                    "signal": "positional_refd",
+                    "evidence": "Positional offset evidence across corpus."
+                },
+                {
+                    "@type": "AlignmentObject",
+                    "alignmentType": "prerequisite",
+                    "targetName": "karoge tape",
+                    "educationalFramework": "PedagogicalFlow",
+                    "confidence": 0.24,
+                    "signal": "positional_refd",
+                    "evidence": "Positional offset evidence across corpus."
+                }
+            ]
+        },
+        {
+            "@type": "Course",
+            "@id": "#string-language",
+            "name": "string language",
+            "educationalAlignment": [
+                {
+                    "@type": "AlignmentObject",
+                    "alignmentType": "prerequisite",
+                    "targetName": "tape",
+                    "educationalFramework": "PedagogicalFlow",
+                    "confidence": 0.24,
+                    "signal": "positional_refd",
+                    "evidence": "Positional offset evidence across corpus."
+                },
+                {
+                    "@type": "AlignmentObject",
+                    "alignmentType": "prerequisite",
+                    "targetName": "state",
+                    "educationalFramework": "PedagogicalFlow",
+                    "confidence": 0.24,
+                    "signal": "positional_refd",
+                    "evidence": "Positional offset evidence across corpus."
+                },
+                {
+                    "@type": "AlignmentObject",
+                    "alignmentType": "prerequisite",
+                    "targetName": "language parse",
+                    "educationalFramework": "PedagogicalFlow",
+                    "confidence": 0.24,
+                    "signal": "positional_refd",
+                    "evidence": "Positional offset evidence across corpus."
+                },
+                {
+                    "@type": "AlignmentObject",
+                    "alignmentType": "prerequisite",
+                    "targetName": "tree",
+                    "educationalFramework": "PedagogicalFlow",
+                    "confidence": 0.24,
+                    "signal": "positional_refd",
+                    "evidence": "Positional offset evidence across corpus."
+                }
+            ]
+        },
+        {
+            "@type": "Course",
+            "@id": "#tape-iske",
+            "name": "tape iske",
+            "educationalAlignment": []
+        },
+        {
+            "@type": "Course",
+            "@id": "#tree-string",
+            "name": "tree string",
+            "educationalAlignment": [
+                {
+                    "@type": "AlignmentObject",
+                    "alignmentType": "prerequisite",
+                    "targetName": "head tape",
+                    "educationalFramework": "PedagogicalFlow",
+                    "confidence": 0.24,
+                    "signal": "positional_refd",
+                    "evidence": "Positional offset evidence across corpus."
+                },
+                {
+                    "@type": "AlignmentObject",
+                    "alignmentType": "prerequisite",
+                    "targetName": "language head",
+                    "educationalFramework": "PedagogicalFlow",
+                    "confidence": 0.24,
+                    "signal": "positional_refd",
+                    "evidence": "Positional offset evidence across corpus."
+                }
+            ]
+        },
+        {
+            "@type": "Course",
+            "@id": "#tree",
+            "name": "tree",
+            "educationalAlignment": [
+                {
+                    "@type": "AlignmentObject",
+                    "alignmentType": "prerequisite",
+                    "targetName": "tape parse",
+                    "educationalFramework": "PedagogicalFlow",
+                    "confidence": 0.24,
+                    "signal": "positional_refd",
+                    "evidence": "Positional offset evidence across corpus."
+                },
+                {
+                    "@type": "AlignmentObject",
+                    "alignmentType": "prerequisite",
+                    "targetName": "head parse",
+                    "educationalFramework": "PedagogicalFlow",
+                    "confidence": 0.36,
+                    "signal": "positional_refd",
+                    "evidence": "Positional offset evidence across corpus."
+                },
+                {
+                    "@type": "AlignmentObject",
+                    "alignmentType": "prerequisite",
+                    "targetName": "language head",
+                    "educationalFramework": "PedagogicalFlow",
+                    "confidence": 0.24,
+                    "signal": "positional_refd",
+                    "evidence": "Positional offset evidence across corpus."
+                },
+                {
+                    "@type": "AlignmentObject",
+                    "alignmentType": "prerequisite",
+                    "targetName": "string language",
+                    "educationalFramework": "PedagogicalFlow",
+                    "confidence": 0.24,
+                    "signal": "positional_refd",
+                    "evidence": "Positional offset evidence across corpus."
+                },
+                {
+                    "@type": "AlignmentObject",
+                    "alignmentType": "prerequisite",
+                    "targetName": "tree string",
+                    "educationalFramework": "PedagogicalFlow",
+                    "confidence": 0.24,
+                    "signal": "positional_refd",
+                    "evidence": "Positional offset evidence across corpus."
+                },
+                {
+                    "@type": "AlignmentObject",
+                    "alignmentType": "prerequisite",
+                    "targetName": "state head",
+                    "educationalFramework": "PedagogicalFlow",
+                    "confidence": 0.4,
+                    "signal": "positional_refd",
+                    "evidence": "Positional offset evidence across corpus."
+                },
+                {
+                    "@type": "AlignmentObject",
+                    "alignmentType": "prerequisite",
+                    "targetName": "parse state",
+                    "educationalFramework": "PedagogicalFlow",
+                    "confidence": 0.24,
+                    "signal": "positional_refd",
+                    "evidence": "Positional offset evidence across corpus."
+                },
+                {
+                    "@type": "AlignmentObject",
+                    "alignmentType": "prerequisite",
+                    "targetName": "karoge tape",
+                    "educationalFramework": "PedagogicalFlow",
+                    "confidence": 0.24,
+                    "signal": "positional_refd",
+                    "evidence": "Positional offset evidence across corpus."
+                },
+                {
+                    "@type": "AlignmentObject",
+                    "alignmentType": "prerequisite",
+                    "targetName": "vo tape",
+                    "educationalFramework": "PedagogicalFlow",
+                    "confidence": 0.24,
+                    "signal": "positional_refd",
+                    "evidence": "Positional offset evidence across corpus."
+                }
+            ]
+        },
+        {
+            "@type": "Course",
+            "@id": "#state-head",
+            "name": "state head",
+            "educationalAlignment": [
+                {
+                    "@type": "AlignmentObject",
+                    "alignmentType": "prerequisite",
+                    "targetName": "head tape",
+                    "educationalFramework": "PedagogicalFlow",
+                    "confidence": 0.36,
+                    "signal": "positional_refd",
+                    "evidence": "Positional offset evidence across corpus."
+                },
+                {
+                    "@type": "AlignmentObject",
+                    "alignmentType": "prerequisite",
+                    "targetName": "tape parse",
+                    "educationalFramework": "PedagogicalFlow",
+                    "confidence": 0.24,
+                    "signal": "positional_refd",
+                    "evidence": "Positional offset evidence across corpus."
+                },
+                {
+                    "@type": "AlignmentObject",
+                    "alignmentType": "prerequisite",
+                    "targetName": "head parse",
+                    "educationalFramework": "PedagogicalFlow",
+                    "confidence": 0.24,
+                    "signal": "positional_refd",
+                    "evidence": "Positional offset evidence across corpus."
+                },
+                {
+                    "@type": "AlignmentObject",
+                    "alignmentType": "prerequisite",
+                    "targetName": "language head",
+                    "educationalFramework": "PedagogicalFlow",
+                    "confidence": 0.36,
+                    "signal": "positional_refd",
+                    "evidence": "Positional offset evidence across corpus."
+                },
+                {
+                    "@type": "AlignmentObject",
+                    "alignmentType": "prerequisite",
+                    "targetName": "language parse",
+                    "educationalFramework": "PedagogicalFlow",
+                    "confidence": 0.24,
+                    "signal": "positional_refd",
+                    "evidence": "Positional offset evidence across corpus."
+                },
+                {
+                    "@type": "AlignmentObject",
+                    "alignmentType": "prerequisite",
+                    "targetName": "string language",
+                    "educationalFramework": "PedagogicalFlow",
+                    "confidence": 0.24,
+                    "signal": "positional_refd",
+                    "evidence": "Positional offset evidence across corpus."
+                },
+                {
+                    "@type": "AlignmentObject",
+                    "alignmentType": "prerequisite",
+                    "targetName": "tree string",
+                    "educationalFramework": "PedagogicalFlow",
+                    "confidence": 0.24,
+                    "signal": "positional_refd",
+                    "evidence": "Positional offset evidence across corpus."
+                },
+                {
+                    "@type": "AlignmentObject",
+                    "alignmentType": "prerequisite",
+                    "targetName": "tree",
+                    "educationalFramework": "PedagogicalFlow",
+                    "confidence": 0.4,
+                    "signal": "positional_refd",
+                    "evidence": "Positional offset evidence across corpus."
+                },
+                {
+                    "@type": "AlignmentObject",
+                    "alignmentType": "prerequisite",
+                    "targetName": "parse state",
+                    "educationalFramework": "PedagogicalFlow",
+                    "confidence": 0.24,
+                    "signal": "positional_refd",
+                    "evidence": "Positional offset evidence across corpus."
+                },
+                {
+                    "@type": "AlignmentObject",
+                    "alignmentType": "prerequisite",
+                    "targetName": "grammar",
+                    "educationalFramework": "PedagogicalFlow",
+                    "confidence": 0.36,
+                    "signal": "positional_refd",
+                    "evidence": "Positional offset evidence across corpus."
+                }
+            ]
+        },
+        {
+            "@type": "Course",
+            "@id": "#state-haim",
+            "name": "state haim",
+            "educationalAlignment": []
+        },
+        {
+            "@type": "Course",
+            "@id": "#language-parse-head",
+            "name": "language parse head",
+            "educationalAlignment": []
+        },
+        {
+            "@type": "Course",
+            "@id": "#number-string",
+            "name": "number string",
+            "educationalAlignment": []
+        },
+        {
+            "@type": "Course",
+            "@id": "#string-tape",
+            "name": "string tape",
+            "educationalAlignment": [
+                {
+                    "@type": "AlignmentObject",
+                    "alignmentType": "prerequisite",
+                    "targetName": "tape state",
+                    "educationalFramework": "PedagogicalFlow",
+                    "confidence": 0.24,
+                    "signal": "positional_refd",
+                    "evidence": "Positional offset evidence across corpus."
+                },
+                {
+                    "@type": "AlignmentObject",
+                    "alignmentType": "prerequisite",
+                    "targetName": "head parse",
+                    "educationalFramework": "PedagogicalFlow",
+                    "confidence": 0.24,
+                    "signal": "positional_refd",
+                    "evidence": "Positional offset evidence across corpus."
+                },
+                {
+                    "@type": "AlignmentObject",
+                    "alignmentType": "prerequisite",
+                    "targetName": "language",
+                    "educationalFramework": "PedagogicalFlow",
+                    "confidence": 0.24,
+                    "signal": "positional_refd",
+                    "evidence": "Positional offset evidence across corpus."
+                },
+                {
+                    "@type": "AlignmentObject",
+                    "alignmentType": "prerequisite",
+                    "targetName": "parse",
+                    "educationalFramework": "PedagogicalFlow",
+                    "confidence": 0.24,
+                    "signal": "positional_refd",
+                    "evidence": "Positional offset evidence across corpus."
+                },
+                {
+                    "@type": "AlignmentObject",
+                    "alignmentType": "prerequisite",
+                    "targetName": "tree",
+                    "educationalFramework": "PedagogicalFlow",
+                    "confidence": 0.24,
+                    "signal": "positional_refd",
+                    "evidence": "Positional offset evidence across corpus."
+                },
+                {
+                    "@type": "AlignmentObject",
+                    "alignmentType": "prerequisite",
+                    "targetName": "state head",
+                    "educationalFramework": "PedagogicalFlow",
+                    "confidence": 0.24,
+                    "signal": "positional_refd",
+                    "evidence": "Positional offset evidence across corpus."
+                },
+                {
+                    "@type": "AlignmentObject",
+                    "alignmentType": "prerequisite",
+                    "targetName": "grammar",
+                    "educationalFramework": "PedagogicalFlow",
+                    "confidence": 0.24,
+                    "signal": "positional_refd",
+                    "evidence": "Positional offset evidence across corpus."
+                },
+                {
+                    "@type": "AlignmentObject",
+                    "alignmentType": "prerequisite",
+                    "targetName": "vo tape",
+                    "educationalFramework": "PedagogicalFlow",
+                    "confidence": 0.24,
+                    "signal": "positional_refd",
+                    "evidence": "Positional offset evidence across corpus."
+                }
+            ]
+        },
+        {
+            "@type": "Course",
+            "@id": "#power-tape",
+            "name": "power tape",
+            "educationalAlignment": []
+        },
+        {
+            "@type": "Course",
+            "@id": "#head-tree",
+            "name": "head tree",
+            "educationalAlignment": []
+        },
+        {
+            "@type": "Course",
+            "@id": "#string-length",
+            "name": "string length",
+            "educationalAlignment": []
+        },
+        {
+            "@type": "Course",
+            "@id": "#haim-tape",
+            "name": "haim tape",
+            "educationalAlignment": []
+        },
+        {
+            "@type": "Course",
+            "@id": "#tarike-tape",
+            "name": "tarike tape",
+            "educationalAlignment": []
+        },
+        {
+            "@type": "Course",
+            "@id": "#string-language-parse",
+            "name": "string language parse",
+            "educationalAlignment": []
+        },
+        {
+            "@type": "Course",
+            "@id": "#parse-state",
+            "name": "parse state",
+            "educationalAlignment": [
+                {
+                    "@type": "AlignmentObject",
+                    "alignmentType": "prerequisite",
+                    "targetName": "head tape",
+                    "educationalFramework": "PedagogicalFlow",
+                    "confidence": 0.24,
+                    "signal": "positional_refd",
+                    "evidence": "Positional offset evidence across corpus."
+                },
+                {
+                    "@type": "AlignmentObject",
+                    "alignmentType": "prerequisite",
+                    "targetName": "tape parse",
+                    "educationalFramework": "PedagogicalFlow",
+                    "confidence": 0.24,
+                    "signal": "positional_refd",
+                    "evidence": "Positional offset evidence across corpus."
+                },
+                {
+                    "@type": "AlignmentObject",
+                    "alignmentType": "prerequisite",
+                    "targetName": "language",
+                    "educationalFramework": "PedagogicalFlow",
+                    "confidence": 0.24,
+                    "signal": "positional_refd",
+                    "evidence": "Positional offset evidence across corpus."
+                },
+                {
+                    "@type": "AlignmentObject",
+                    "alignmentType": "prerequisite",
+                    "targetName": "language head",
+                    "educationalFramework": "PedagogicalFlow",
+                    "confidence": 0.24,
+                    "signal": "positional_refd",
+                    "evidence": "Positional offset evidence across corpus."
+                },
+                {
+                    "@type": "AlignmentObject",
+                    "alignmentType": "prerequisite",
+                    "targetName": "state",
+                    "educationalFramework": "PedagogicalFlow",
+                    "confidence": 0.24,
+                    "signal": "positional_refd",
+                    "evidence": "Positional offset evidence across corpus."
+                },
+                {
+                    "@type": "AlignmentObject",
+                    "alignmentType": "prerequisite",
+                    "targetName": "parse",
+                    "educationalFramework": "PedagogicalFlow",
+                    "confidence": 0.24,
+                    "signal": "positional_refd",
+                    "evidence": "Positional offset evidence across corpus."
+                },
+                {
+                    "@type": "AlignmentObject",
+                    "alignmentType": "prerequisite",
+                    "targetName": "tree string",
+                    "educationalFramework": "PedagogicalFlow",
+                    "confidence": 0.24,
+                    "signal": "positional_refd",
+                    "evidence": "Positional offset evidence across corpus."
+                }
+            ]
+        },
+        {
+            "@type": "Course",
+            "@id": "#string-apaki",
+            "name": "string apaki",
+            "educationalAlignment": []
+        },
+        {
+            "@type": "Course",
+            "@id": "#tape-language",
+            "name": "tape language",
+            "educationalAlignment": []
+        },
+        {
+            "@type": "Course",
+            "@id": "#haim-parse",
+            "name": "haim parse",
+            "educationalAlignment": []
+        },
+        {
+            "@type": "Course",
+            "@id": "#karoge-tape",
+            "name": "karoge tape",
+            "educationalAlignment": [
+                {
+                    "@type": "AlignmentObject",
+                    "alignmentType": "prerequisite",
+                    "targetName": "tape",
+                    "educationalFramework": "PedagogicalFlow",
+                    "confidence": 0.24,
+                    "signal": "positional_refd",
+                    "evidence": "Positional offset evidence across corpus."
+                },
+                {
+                    "@type": "AlignmentObject",
+                    "alignmentType": "prerequisite",
+                    "targetName": "language",
+                    "educationalFramework": "PedagogicalFlow",
+                    "confidence": 0.24,
+                    "signal": "positional_refd",
+                    "evidence": "Positional offset evidence across corpus."
+                },
+                {
+                    "@type": "AlignmentObject",
+                    "alignmentType": "prerequisite",
+                    "targetName": "state",
+                    "educationalFramework": "PedagogicalFlow",
+                    "confidence": 0.24,
+                    "signal": "positional_refd",
+                    "evidence": "Positional offset evidence across corpus."
+                },
+                {
+                    "@type": "AlignmentObject",
+                    "alignmentType": "prerequisite",
+                    "targetName": "language parse",
+                    "educationalFramework": "PedagogicalFlow",
+                    "confidence": 0.24,
+                    "signal": "positional_refd",
+                    "evidence": "Positional offset evidence across corpus."
+                },
+                {
+                    "@type": "AlignmentObject",
+                    "alignmentType": "prerequisite",
+                    "targetName": "parse",
+                    "educationalFramework": "PedagogicalFlow",
+                    "confidence": 0.24,
+                    "signal": "positional_refd",
+                    "evidence": "Positional offset evidence across corpus."
+                },
+                {
+                    "@type": "AlignmentObject",
+                    "alignmentType": "prerequisite",
+                    "targetName": "tree",
+                    "educationalFramework": "PedagogicalFlow",
+                    "confidence": 0.24,
+                    "signal": "positional_refd",
+                    "evidence": "Positional offset evidence across corpus."
+                }
+            ]
+        },
+        {
+            "@type": "Course",
+            "@id": "#state-tape",
+            "name": "state tape",
+            "educationalAlignment": []
+        },
+        {
+            "@type": "Course",
+            "@id": "#string-string",
+            "name": "string string",
+            "educationalAlignment": []
+        },
+        {
+            "@type": "Course",
+            "@id": "#head-parse-tape",
+            "name": "head parse tape",
+            "educationalAlignment": []
+        },
+        {
+            "@type": "Course",
+            "@id": "#kitani-string",
+            "name": "kitani string",
+            "educationalAlignment": []
+        },
+        {
+            "@type": "Course",
+            "@id": "#tape-note",
+            "name": "tape note",
+            "educationalAlignment": [
+                {
+                    "@type": "AlignmentObject",
+                    "alignmentType": "prerequisite",
+                    "targetName": "tape",
+                    "educationalFramework": "PedagogicalFlow",
+                    "confidence": 0.24,
+                    "signal": "positional_refd",
+                    "evidence": "Positional offset evidence across corpus."
+                },
+                {
+                    "@type": "AlignmentObject",
+                    "alignmentType": "prerequisite",
+                    "targetName": "string",
+                    "educationalFramework": "PedagogicalFlow",
+                    "confidence": 0.24,
+                    "signal": "positional_refd",
+                    "evidence": "Positional offset evidence across corpus."
+                },
+                {
+                    "@type": "AlignmentObject",
+                    "alignmentType": "prerequisite",
+                    "targetName": "head parse",
+                    "educationalFramework": "PedagogicalFlow",
+                    "confidence": 0.24,
+                    "signal": "positional_refd",
+                    "evidence": "Positional offset evidence across corpus."
+                },
+                {
+                    "@type": "AlignmentObject",
+                    "alignmentType": "prerequisite",
+                    "targetName": "language",
+                    "educationalFramework": "PedagogicalFlow",
+                    "confidence": 0.24,
+                    "signal": "positional_refd",
+                    "evidence": "Positional offset evidence across corpus."
+                },
+                {
+                    "@type": "AlignmentObject",
+                    "alignmentType": "prerequisite",
+                    "targetName": "state",
+                    "educationalFramework": "PedagogicalFlow",
+                    "confidence": 0.24,
+                    "signal": "positional_refd",
+                    "evidence": "Positional offset evidence across corpus."
+                },
+                {
+                    "@type": "AlignmentObject",
+                    "alignmentType": "prerequisite",
+                    "targetName": "tree",
+                    "educationalFramework": "PedagogicalFlow",
+                    "confidence": 0.24,
+                    "signal": "positional_refd",
+                    "evidence": "Positional offset evidence across corpus."
+                }
+            ]
+        },
+        {
+            "@type": "Course",
+            "@id": "#string-ending",
+            "name": "string ending",
+            "educationalAlignment": []
+        },
+        {
+            "@type": "Course",
+            "@id": "#maim-string",
+            "name": "maim string",
+            "educationalAlignment": []
+        },
+        {
+            "@type": "Course",
+            "@id": "#grammar",
+            "name": "grammar",
+            "educationalAlignment": [
+                {
+                    "@type": "AlignmentObject",
+                    "alignmentType": "prerequisite",
+                    "targetName": "tree",
+                    "educationalFramework": "PedagogicalFlow",
+                    "confidence": 0.36,
+                    "signal": "positional_refd",
+                    "evidence": "Positional offset evidence across corpus."
+                },
+                {
+                    "@type": "AlignmentObject",
+                    "alignmentType": "prerequisite",
+                    "targetName": "state head",
+                    "educationalFramework": "PedagogicalFlow",
+                    "confidence": 0.36,
+                    "signal": "positional_refd",
+                    "evidence": "Positional offset evidence across corpus."
+                }
+            ]
+        },
+        {
+            "@type": "Course",
+            "@id": "#vo-tape",
+            "name": "vo tape",
+            "educationalAlignment": [
+                {
+                    "@type": "AlignmentObject",
+                    "alignmentType": "prerequisite",
+                    "targetName": "string",
+                    "educationalFramework": "PedagogicalFlow",
+                    "confidence": 0.24,
+                    "signal": "positional_refd",
+                    "evidence": "Positional offset evidence across corpus."
+                },
+                {
+                    "@type": "AlignmentObject",
+                    "alignmentType": "prerequisite",
+                    "targetName": "head parse",
+                    "educationalFramework": "PedagogicalFlow",
+                    "confidence": 0.24,
+                    "signal": "positional_refd",
+                    "evidence": "Positional offset evidence across corpus."
+                },
+                {
+                    "@type": "AlignmentObject",
+                    "alignmentType": "prerequisite",
+                    "targetName": "language",
+                    "educationalFramework": "PedagogicalFlow",
+                    "confidence": 0.24,
+                    "signal": "positional_refd",
+                    "evidence": "Positional offset evidence across corpus."
+                },
+                {
+                    "@type": "AlignmentObject",
+                    "alignmentType": "prerequisite",
+                    "targetName": "tree",
+                    "educationalFramework": "PedagogicalFlow",
+                    "confidence": 0.24,
+                    "signal": "positional_refd",
+                    "evidence": "Positional offset evidence across corpus."
+                },
+                {
+                    "@type": "AlignmentObject",
+                    "alignmentType": "prerequisite",
+                    "targetName": "state head",
+                    "educationalFramework": "PedagogicalFlow",
+                    "confidence": 0.24,
+                    "signal": "positional_refd",
+                    "evidence": "Positional offset evidence across corpus."
+                },
+                {
+                    "@type": "AlignmentObject",
+                    "alignmentType": "prerequisite",
+                    "targetName": "grammar",
+                    "educationalFramework": "PedagogicalFlow",
+                    "confidence": 0.24,
+                    "signal": "positional_refd",
+                    "evidence": "Positional offset evidence across corpus."
+                }
+            ]
+        }
+    ]
+}

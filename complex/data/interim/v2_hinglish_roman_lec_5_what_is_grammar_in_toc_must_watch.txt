@@ -1,0 +1,284 @@
+Hello friends, great smashes, I welcome you all
+In this video I am going to explain what is grammar in TOC
+Grammar is an important topic of TOC
+Because to understand TOC, you should know the concept of grammar
+Apart from this, if we talk about any competitive exam
+In which the portion of computer science comes
+TOC is the most important topic
+Even if you talk about your college or university level exam
+There too, grammar is an important topic of TOC
+So guys, quickly like the video
+Subscribe the channel if you haven't done it yet
+And please press the bell button so that you get all the latest notifications
+So let's start
+What is grammar in TOC?
+Grammar in TOC is exactly the same as the concept of grammar in natural language
+And in natural language, we take the example of English language
+Now we study grammar in English language
+We are studying in school
+Already the concept of grammar
+What is the use of grammar?
+Why do we use grammar in English?
+The first use is
+Char doesn't tell whether particular sentence is part of English language or is not
+How?
+We write sentence
+We will check, whether the sentence is grammatically fine or not
+If the sentence is Grammatically fine
+Then we will say that yes gramatically fine is English language part
+If it is not gramatically fine
+If the English is well formed
+Then we will say it is well formed
+If not then it is not a part of English law
+TATa ki aMglisa lAika to yahAM para eka grAmbara jo hai vaha sTeMDeDa veyara phrI pareseMTiMga thA leMgeja to yaha
+paॉnTa moTa kara lenA grAmbara kA yUja kyA sTeMDara veyara ripeseMTiMga lAMgveja hai jaise agalisha ke aMdara
+letA hUM hai resa yadi Apha priMTa eka siMpala saMTeMsa likhate hai aiDa lie haiM kA pI to dekho iske aMdara hama cheka karate
+haiM ki oke yahAM para hamAre pAsa jo hai vaha naॉma hai proDaॉTa ko neTabaॉba hamane yUja ki alpI mAya yUja kara rahe haiM
+bahuta sAre hama grammatical jo hai vo funda use karate haiM
+aura unake basis pe hama check karate haiM
+ki whether it is a part of English language or not
+to yes it is a part of English language
+isako hama aura tarIke se bhI likha sakate haiM
+like your coffee is here
+is your coffee here
+ye bhI jo hai vo English language kA part hai
+agara maiM isako likhatA hU.N
+is here coffee yours
+dekho
+is here coffee yours
+aba iske aMdara jo hai vo
+although ye bhI English language kA hI part hai
+matalaba English sentence hai
+lekina kyA ye English language ke aMdara AegA
+nahIM
+reason usakA kyA hai hama boleMge ki iske aMdara grammatical error hai
+so it is not a part of English language
+to grammar se Apako kyA patA lagegA
+grammar Apako batAegI ki
+kyA particular string
+language kA part hai yA nahIM
+so that is a very important point in TOC
+to do method hai
+koI bhI string ko Apako check karanA hai
+ki kyA ye language kA part hai yA nahIM
+eka automata jo hamane last video meM
+already discuss kara chuke hai ki kaise hama
+automata se decide karate haiM ki kyA
+eka string language ke aMdara AtI hai
+yA nahIM AtI hai aura dUsarA method jo hai
+vo Aja hama discuss kara rahe haiM that is
+grammar to grammar se Apako patA lagegA
+ki yes it is a part of English language
+aura aisI agara hama bAta kareM
+TOC meM to TOC ke aMdara
+bhI hama kyA discuss kara rahe haiM ki agara
+hamAre pAsa koI particular string dI hai
+yA agara Apako koI bhI topic diyA jAe
+usake basis pe Apa koI bhI grammar
+dI ho usa grammar se Apa kyA
+nikAla sakate ho language nikAla sakate ho
+ki agara unakoMne language jo hai vo hama
+iske aMdara generate kara sakate hai koI agara
+usake aMdara usa grAmara ke
+aMdara yA usa language ke aMdara AtI hai
+yA nahIM AtI ye bhI Apa cheka kara sakate ho
+grammar kI help se to grammar
+jI is defined as quadruple
+matalaba chAra chIjoM se milakara yahA.N banI hai
+that is VTPS
+V yahA.N pe kyA hai?
+Variable
+Variable jisako hama denote karate haiM
+Capital letter se
+aura Terminal hai hamArA T
+aura isako hama denote karate haiM
+Small letter se
+Terminal kA matalaba hai kyA hai?
+Terminate karanA
+matalaba agara koI string ko Apa terminate karanA chAhate ho
+to Apa kyA use karo?
+Terminal ko use karo
+Variable matalaba bAra bAra Apa usakI value jo hai
+vo put on kara sakate ho
+bAra bAra value jo hai vo bara sakate ho
+Then Production Rule
+That is a very important point
+Production Rule Apako batAegA
+ki Apako actual meM karanA kyA hai?
+matalaba Apako jo bhI rule diyA jAegA
+usa rule ke basis pe hI
+Apako language ko generate karanA hai
+jaise agara hama English language kI bAta kareM
+usameM bhI hama school meM pa.Dhate haiM
+Rules like ki noun ke Age yaha honA chAhie
+yaha verb lagAnI hai
+yaha helping verb hai
+yaha phira preposition, article
+jo bhI rules hama vahA.N pe pa.Dhate haiM
+vahI rules hama yahA.N pe use kareMge
+Rules Apako question meM jo hai
+kahAM se ho rahI hai
+to let's pose a simple
+let's take a simple example
+S goes to
+A S B
+Epsilon
+matalaba yahA.N pe mere pAsa jo production rule jo hai
+vo do diye hue hai
+eka yaha hai aura eka yaha hai
+matalaba yA to Apa yaha put kara sakate ho
+yA phira isako jo hai vo Age ba.DhA sakate ho
+donoM meM se koI bhI Apa use kara sakate ho
+capital S yaha Apako kyA hai
+start symbol yaha ApakA start symbol hai
+aura sAtha hI sAtha yaha variable hai capital letter meM
+A aura B yahA.N pe kyA hai small letter meM
+to yaha kyA hai terminals
+aura epsilon matalaba null
+jisako hama kaI bAra lambda se bhI denote kara dete haiM
+aba hama iske bAza pe
+isa grammar ke base pe isa production rule ke base pe
+hama generate kareMge kyA
+string generate kareMge yA phira Apako Ae sakate ho
+language generate kareMge kyoMki collection of string
+is known as language
+to sabase minimum string Apa kyA generate kara sakate ho
+sabase minimum agara maiM isako
+nA lU.N mere pAsa do option hai
+either this or this to pahale hama aura vAlA
+uThA lete haiM isako matalaba Apa
+minimum se minimum jo hai vo ye
+lambda generate kareM minimum se minimum
+epsilon generate kareM null string
+then A
+S B aba
+S ke aMdara Apa kyA put kara do
+S ke aMdara agara maiM put kara do yahA.N pe
+epsilon to kyA bana jAegI ye
+A B S ke aMdara Apa kyA put kara do
+epsilon isako terminate kara do
+isako khatama kara do to pahalI jo hai vo
+minimum string ApakI epsilon then
+A B then A
+S ke aMdara maiM dubArA se
+A S B put kara sakatA hU.N yes
+S goes to A S B aura epsilon
+agara maiM epsilon put kara detA hU.N to ye bana gI
+lekina agara maiM isI S ke aMdara dubArA
+se ye put karatA hU.N kyoMki Apa bAra-bAra
+iske aMdara jo hai vo brute force, brute force matalaba
+bAra-bAra values jo hai vo substitute
+kara sakate ho to bAra-bAra substitute kareMge
+to A A S B B
+bana jAegA jisako Apa kyA likha sakate ho
+A square S B square aura S ke aMdara
+agara Apa epsilon put karoge
+A square B square bana jAegA then
+isa S ke aMdara maiM dubArA se phira
+substitute kara detA hU.N A A A
+S B B B
+to kyA bana gayA A cube
+S B cube aura isa S ke aMdara
+maiM dubArA se epsilon put kara dU.N
+to yaha bana jAegA A cube
+B cube aura isa S ke aMdara Apa dubArA se
+substitute karoge S kI value ko yaha vAlI
+to yaha kyA bana jAegA A power 4
+B power 4, A power 5
+B power 5 aura final meM
+Apa kaha sakate ho A power N
+B power N
+A power N
+B power N where N is greater than
+equal to 0 to dekho N kI value
+agara maiM 0 put kara dU.N to kyA banegA
+epsilon, N kI value agara
+maiM 1 put kara dU.N AB
+N kI value agara maiM 2 put kara dU.N
+A square B square, N kI value 3 put kara deM
+A cube B cube to Apa koI bhI value
+jo hai vo put karate jAoge usake
+base pe generate karegI to dekho
+yahA.N pe sabase pahalA point ApakA kyA
+clear huA pahalA point yaha kyA huA
+ki agara Apako yaha grammar dI jAe
+to kauna sI language jo generate karegI
+to dekho kauna sI language generate karegI hai
+A power N B power N jisako
+Apa yaha bhI bola sakate ho A followed
+A B A B
+to dekho A B A B
+kyA isa grammar se hama generate kara sakate haiM
+agara maiM string de dU.N simple sI
+A B A B to kyA hama isa grammar se
+generate kara sakate haiM to dekho iske
+aMdara agara Apa S ke aMdara jaba bhI put karoge
+apke bAsa do hI value hai
+yA to A S B put kara sakate ho
+dekho A aura B bIcha meM kyA hai
+matalaba kabhI bhI A B A B jo hai yahA.N pe
+generate nahIM hogI
+to Apako dekho do jo hai vo main question patA lage
+pahalA grammar se Apako yaha patA laga gayA
+ki kauna sI language generate hogI
+dUsarA agara Apako koI string dI jAe
+to kyA vo string isa grammar ke aMdara
+contain karatI hai nahIM yA kyA vo string
+isa language kA part hai yA nahIM
+Apa expand kara lo usake basis pe
+check kara lo to dekho A B A B isa grammar meM
+isa language meM nahIM A rahI
+to yaha actual meM benefit hai
+grammar kA which is a very very important
+concept of TOC aisI eka
+simple example agara hama aura le detI hai
+let's suppose hamAre pAsa AtA hai
+isako Apa note kara lenA let's suppose
+hamAre pAsa agara A
+S goes to
+SS
+S goes to
+SS S goes to
+ASB
+S goes to
+BSA
+S goes to EPSILON
+to dekho yaha bhI hamAre pAsa multiple production
+rules ho sakate haiM agara yaha mere pAsa
+multiple production rules Ate haiM
+to dekho Apako karanA kyA hai starting jo hai
+vo kahAM se ho rahI hai isa S se hamAre pAsa
+starting ho rahI hai aba isa S ke aMdara hama
+kyA kara sakate haiM yA to yaha substitute
+S ke aMdara EPSILON puTa kara do
+EPSILON jo hai vo generate hogI usake alAvA
+kyA puTa kara sakate ho ASB
+aura
+isa S ke aMdara BSA kuCha bhI
+matalaba Apa koI bhI isa tarIke se
+jo hai vo string generate kara sakate ho multiple strings
+Apa generate karanA aura isa S ke aMdara
+kyA maiM EPSILON puTa karatA hU.N to AB
+BA
+isa tarIke se Apa yahA.N para banA sakate ho
+to dekho jo bhI value puTa karoge
+agara Apa sirpha yahI puTa karanA chAhate ho to
+yahI puTa karate ho bAra bAra yahI puTa karanA chAhate ho to
+yahI puTa kara do donoM kA mixture puTa kara sakate
+is equal to number of B in a string.
+to piChale question meM hamAre pAsa difference yahA.N pe kyA hai?
+piChale question meM kyA thA?
+A power N, B power N.
+Number of A aura B yahA.N bhI barAbara haiM.
+lekina yahA.N pe constraint kyA hai?
+ki B jo hai vo hameshA A ke bAda AegA.
+lekina yahA.N pe B, A se pahale bhI A sakatA hai.
+agara Apa sirpha yaha put karate raho,
+B, S, A aura iske aMdara dubArA se B, S, A.
+B, A, B.
+to dekho B pahale bhI A sakatA hai iske aMdara,
+lekina number jo hai vo equal AegA.
+So that is called a number of A and number of B in a string will be equal.
+So this is how we produce the language using the grammar.
+So this is the main concept, this is a very important concept in TUC.
+Thank you.

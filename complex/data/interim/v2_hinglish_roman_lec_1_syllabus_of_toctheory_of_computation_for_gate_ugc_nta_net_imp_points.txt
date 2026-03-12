@@ -1,0 +1,108 @@
+Hello dostoM, Gate Smashers maiM ApakA svAgata haiM
+isa vIDiyo meM maiM explain karane jA rahA hU.N
+Slabos of Theory of Computation
+aura TOC kA Slabos discussion maiM kara rahA hU.N
+Based on Gate Exam
+Based on UGC Net Exam
+Based on Other Competitive Exams
+jisake aMdara bhI Computer Science kA portion AtA hai
+Like KBS kA exam hai, DSSSB kA exam hai
+HTET kA exam hai
+yA Other Competitive Exams jisameM bhI
+Computer Science kA portion AtA hai
+to TOC usameM Preferable Course jo hai vo rahatA hai
+Even apke College yA University levala ke exam kI bAta kareM
+to vahA.N pe bhI kauna-kauna se important point hai
+jo Apako karake jAne hai
+kauna-kauna se important topic hai jo Apako karake jAne hai
+ye sAre points maiM hai
+isa vIDiyo meM discuss karane jA rahA hU.N
+aba dekho syllabus to Apako bahuta jagaha pe available ho jAegA
+lekina important topic kyA hai
+Apako exam se pahale kauna-kauna se topic hai
+jo apke lie mandatory hai
+matalaba Apako karake jAne hai
+kauna se aise topic hai jinake Upara Apako sabase jyAdA focus karanA chAhie
+kauna se aise topic hai jinake Upara Apa tho.DA kama focus bhI kara sakate hai
+taba bhI Apa kahIM na kahIM achChe marks
+competitive exam meM bhI
+even apke college yA university exam meM bhI Apa le sakate hai
+to yaha sAre point jo hai maiM isa vIDiyo meM discuss karane jA rahA hU.N
+to yahA.N pe maiM syllabus start karatA hU.N
+syllabus ko maiMne divide kiye chAra portion meM
+pahalA portion hai regular language and finite automata
+aura isako maiM dU.NgA weightage 80%
+yes
+sabase zyAdA weightage jo hai vo
+isa topic kI hai that is regular language and finite automata
+maiM Apako tho.DA sA eka overview de detA hU.N
+theory of computation ke tIna main pillar hai
+matalaba isameM sAre ke sArI discussion jo hai vo
+tIna chIjoM pe hotI hai
+that is language
+jisameM hama former language ke vAre meM bAta karate hai
+grammar
+aura grammar ke ilavA hama bAta karate hai
+here automata ki
+that is your machine
+jahAMpe hama bAta karate hai hardware
+yahAM bAta karate hai machine kI
+to ye jo hai vo tIna pillars hai
+automata ke to sAre ke sAre
+automata ke syllabus meM Apako
+language, grammar aura automata ke Upara
+para hI kahIM nA ki Taॉpika mileMge to ApakA jo pharsTa eMDa verI iMpaॉrTeMTa Taॉpika hai deTa ija regulara laiMgveja eMDa
+rAina AiTa ऑTomeTA meM devana yahAM para AtA hUM kaॉnTeksTa phrI laiMgveja eMDa pUza lUTara meM TAipa isako
+maiM dUMgA yahAM para Taina paraseMTa matalaba neksTa viporTana Taॉpika the DeTa isa yaha kaTeksTa phrI laiMgveja
+ivana apke college yA university level ke exams ke point of view se
+lekina ye video Apako bahuta zyAdA help karegI
+ki kaise Apako exam kI preparation karanI hai
+kauna-kauna se topic hai jinake upara sabase zyAdA Apako emphasis denA hai
+to yahA.N pe next hama Ate hai recursive language aura recursive enumerable language
+aura inako accept karane ke lie hamAre pAsa hai Turing machine
+isako bhI maiM dU.NgA yahA.N pe 10%
+aura yahA.N pe topics jo hai vo zyAdA tara kisake upara Ate hai
+theoretical question A jAte hai aura even jo theoretical question agara nahIM bhI AtA
+to Apako kauna se type ke question Ate hai vo maiM Apako isa video ke
+yahA.N pe next yahA.N pe batAne jA raho
+next yahA.N pe closer properties and undecidability
+yaha to sabase zyAdA important topic hai
+that is closer property and undecidability
+jisameM yahA.N pe Apako table sabase pahale maiM Apako batAI dU.N
+ki yaha sabase zyAdA important kyUM hai kyUMki hara eka exam ke aMdara
+hara bAra Apako iske upara question milegA hI milegA
+jisameM hama bAta karate haiM table jo hai Apako yAda karanA hai
+table based on the closer property and undecidability kA bhI table hai
+decidable aura undecidability kA table hai
+aura aisA nahIM ki yaha alaga se matalaba Apako laga rahA hogA ki zare 100% to cover ho gayA
+to yaha kisameM AegA yaha actual meM sAroM meM hI hai
+matalaba regular language ke aMdara bhI closer property hai
+context free grammar ke aMdara bhI hamAre pAsa closer property hai
+recursive recursive enumerable CSL ke aMdara bhI hamAre pAsa closer properties AtI hai
+aura yaha aisI decidable undecidable ke upara bhI hamAre pAsa eka pUrA full fledged table hai
+jisake upara Apako hara bAra question milegA hI milegA
+sabase zyAdA important topic jo hai vo yahI hai
+iske upara tables hai Apako patA honA chAhie
+ki inake upara kauna kauna se question jo hai vo possible hai
+that is closer property and undecidability
+second maiM yahA.N pe Apako batAUMgA
+ki that is identification
+matalaba Apako language dI hogI
+aura Apako identify karanA hai
+ki yaha language jo hai vo
+regular language hai CFL ke aMdara AtA hai
+third type of question yahA.N pe Ate hai
+machine ke upara yahA.N pe Apa kaha sakate ho
+automata ke upara
+ki yaha jo automata hai
+yaha jo machine hai vo
+isa particular language ko accept karatA hai yA nahIM
+isa particular string ko accept karatA hai yA nahIM
+iske upara Apako jo hai
+vo question sabase jAdA AtI hai
+hai to yahAM para sabase pahale maiM Apako batA rahA thA klojara praॉparTI aMDisAiDebiliTI jisake Upara Apako
+DephineTalI kveshchana milegA hI milegA sekaMDa jo hai vaha laiMgveja aDeMTiphikeshana ke Upara ki laiMgveja
+ko Apako aniTiphikeshana karanA hai ki kauna se laiMgveja ke aMdara AtI hai aupaDa jo hai vaha mashIna kI asitana ke
+Upara ki mashIna kauna sI laiMgveja kosaipa karatA hai ashveda karegA nahIM karegA phraMsoM yA phira usko asephTa karegA
+to yaha sabase jyAdA vaha AtI hai to yaha meM porshana hai TIvI kA jisake Upara sabase jyAdA kveshchana jo hai vaha
+Apako mileMge to ina chAroM Taॉpiksa ko hamane hama kavara kareMge dirdI karake eka vIDiyo meM maiM neksTa lekara

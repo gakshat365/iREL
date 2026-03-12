@@ -1,0 +1,358 @@
+Hello friends, so GatesMashes, maiM ApakA svAgata haiM
+isa vIDiyo meM hama sTArTa kara rahe haiM Lecture 1 of TOC
+That is Theory of Computation
+Lecture 1 of TOC meM sabase pahale maiM Apako batAnA chAhatA hU.N
+ki Theory of Computation hama kyoM pa.Dha rahe haiM
+kyoMki hama yahA.N pe bAta kara rahe haiM
+Computation in Theoretical Way
+lekina Computer Science jo hai
+prekTikala kI ki ThIka hai hamane C meM programa likhanA hai
+Java meM programa likhanA hai, Python meM likhanA hai
+to yaha Theory kA yahA.N pe kyA paraparsa hai
+to dekho Theory kA paraparsa kyA hai
+hara eka Implementation ke pIChe jo hai vo
+Theory hotI hai
+sabase pahale hama bAta karate haiM Theory kI
+kyoMki Theory Apako complete karatI hai
+Theory Apako batAtI hai
+Concept
+Theory Apako batAtI hai
+Principle of that particular thing
+matalaba isa chIja ke pIChe koI bhI Implementation ho yahA.N hai
+dekho Aja ke TAima ke agara hama bAta kareM
+Implementation jaise Atomome hai
+Already isakI Implementation ho chuke hai
+itane sAre Atomome, Nuclear Worms ala.DI bana chuke hai
+Refine kara karake itane Practical usake upara kara karake
+They have created a Nuclear Weapon
+to dekho TOC ke agara hama bAta kareM nA
+Theory of Computation matalaba hama Computation ko samayanA chAte hai
+ki Computer System hamArA kaise kAma karatA hai
+usko samayane ke lie hama Mathematical Model banAeMge
+hama eka Mathematical, eka Abstract Model banAeMge
+usI ko hama bolate hai kyA
+Theory of Computation
+aura Theory of Computation kA jo tIna Pillar hai
+matalaba agara Apako Theory of Computation samayanA hai
+to maiM yahA.N pe tIna Pillar se sTArTa kara rahA hU.N
+vo tIna Pillar hai Leg
+Leg matalaba L-E-G vAlA Leg nahIM
+L-A-G
+aura yaha L-A-G kA matalaba kyA hai
+sabase pahale hama bAta kareMge yahA.N pe
+Language kI
+phira hama bAta kareMge yahA.N pe
+Automata kI
+aura phira tharDa hama yahA.N pe bAta kareMge
+Grammar kI
+agara Apako yaha tInoM Point kliyara hoge
+to matalaba pUre kI pUrI TOC Apako
+kliyara hogI
+to yahA.N pe sTArTa karate haiM sabase pahale L se
+That is Language
+to Language kI kahAnI sTArTa hotI hai
+The smallest unit
+Language to dekho Apane Obviously Language
+sunate hI sabase pahale kyA AtA hai dimAga meM
+Hindi Language hai, English Language hai, Punjabi Language hai
+lekina hama Language pe
+bAda meM pahuMcheMge yaha to Story kA End hai
+Story kA sTArTa kyA hai
+Story kA sTArTa kyA hai
+Symbol
+Yes, that is the building block
+of the language, the smallest unit
+of the language is what?
+The Symbol, aba Symbol meM kyA Ate hai
+jaise apke A, B
+C, D, yaha sAre kyA hai
+Symbols hai, 0, 1
+2, 3, yaha sAre kyA hai apke
+Symbols hai, to yaha sAre
+Symbols jo haiM vo apke
+kyA banAte haiM, eka Building Block hai
+kisI particular language kI
+to Symbol jo haiM yahI se
+ApakI kahAnI sTArTa hotI hai, to Apako
+sabase pahale patA hone chAhie, jisa bhI language
+kI Apa bAta kare ho, usake aMdara
+kauna-kauna se Symbols jo haiM, vo
+Ate haiM, Symbols ke bAda hama bAta karate haiM
+yahA.N pe Alphabet kI
+Alphabet, jisako
+hama denote karate haiM Sigma sI
+Yes, Alphabet, Sigma sI, yaha
+Apako jo hai Notation
+sabase zyAdA TOC meM dekhegI, that is
+a Sigma, aba Alphabet kyA hai
+Finite Set of Symbol
+Finite Set of Symbol kA
+matalaba kyA hai, dekho sabase pahalA important point meM
+Apako batA dU, kyoMki maiM jitane bhI
+vIDiyosa leke A rahA hU.N, ina vIDiyosa
+meM, parallelly maiM Apako vo sAre points
+batAUMgA, jo competitive
+exams meM, even apke college or university
+level ke exams meM Apase pUCha sakate haiM
+to sabase pahalA important point yahA.N pe
+Alphabet, Alphabet kyA hai
+Finite Set of
+Symbols, yes
+kyA yaha infinite
+ho sakatA hai, nahIM, it is always a
+Finite Set of Symbols, jaise
+maiMne Apako de diyA, Sigma is equal
+to AB, matalaba aba sAre
+Apako vahI points likhane haiM, sAre
+Apako vahI words banAne haiM, jo
+A aura B se milake bane haiM
+aura yaha Apako hameshA given hogA, hameshA
+Alphabet Apako given hogA, otherwise
+obviously Apa koI bhI symbol uThA sakate haiM
+aura agara koI bhI symbol uThA sakate haiM
+to Apa koI bhI Alphabet jo hai banA sakate haiM
+aura Alphabet ke bAda agara hama bAta kareM
+String kI, kyoMki
+next jo concept AtA hai String kA
+aba String yahA.N pe kyA hai?
+Collection of
+Alphabets
+yaha Apa kyA kaha sakate ho?
+Sequence, better word kyA hai?
+Sequence of Alphabet
+jaise Sigma agara
+maiM Apako de dU, let's say Sigma is equal to
+A, B, varalaba apke bAsa
+Alphabet de dU, A aura B, to dekho
+kauna-kauna sI String bana sakatI hai?
+String kA matalaba kyA hai? jaise
+A itself is a String, B
+itself is a String, A
+A is one of the String,
+A, B, B, A
+B, B, yaha sArI
+kyA hai? eka taraha se String hai
+aba String ko hama yahA.N pe property hai
+String kI kyA? sabase pahale hama bAta karate haiM
+Length of the String
+Length of the String kA matalaba kyA hai?
+ki String ke aMdara kitane
+Words jo haiM vo A sakate haiM, kitane Symbols
+A sakate haiM, let's suppose agara maiM bAta karU.N
+Length of the String is
+2, Length of the String agara Apako
+bola dU, Length of the String is 2, aura
+Alphabet hamAre A, B, to Apa kauna-kauna
+se banAoge? usa String meM
+kauna-kauna se hoMge? apke pAsa ho sakate haiM
+A, A, A, B
+B, A, B, B
+isa tarIke se apke pAsa hoMge
+Let's say Length of 3
+Length of 3 meM apke pAsa kyA ho sakate haiM?
+A, A, A
+A, A, B
+A, B, A
+A, B, B
+B, A, A
+B, A, B
+B, B, A
+B, B, B
+balaba ye apke kyA ho sakate haiM?
+paॉsibala sTriMga jo haiM vo ho sakatI haiM
+aba sTriMga kI Length kI agara hama bAta kareM
+to dekho Length yahA.N pe kitanI hai?
+2 bhI hai, Length yahA.N pe 3 bhI hai
+ToTala naMbara of Strings jo haiM vo Apa yahA.N pe
+Find out kara sakate ho, aba String kyA
+matalaba kyA hai eka taraha se jaise agara hama
+English word kI bAta kareM to dekho Alphabet
+English meM Obviously Symbols kauna kauna sI hai?
+A to Z hamAre pAsa Symbols haiM
+aba Alphabet kA matalaba kyA hai? Apako
+Let's suppose de deM ki Apako sAre ke
+sAre Strings likhane haiM, sAre ke sAre Apako
+Sentence likhane haiM, lekina usa
+Sentences meM Apako
+sirapha A, B, C
+aura D ko hI yUza karanA hai, matalaba hai nahIM
+Alphabet Apako Fix kara diyA hai ki inhIM
+chAroM se milake banane hone chAhie, aba Apa
+kyA likhoge? Sentence likhane kI koshisha karoge
+yA Words likhane kI koshisha karoge
+to vo Words yA Sentences apke
+kyA kaha sakate ho? Apa eka taraha se
+String hai, jo ki kyA eka taraha se
+Sequence hai kisakA? jitane bhI
+Symbol, jitane bhI Alphabet Apako diye haiM
+unakA eka taraha se Sequence hai
+aba sabase pahale Symbol ho gayA, Alphabet
+phira Age hama String pe
+String ke bAda hama Ate haiM
+Language pe, Language kA matalaba
+kyA hai? That is the biggest term
+Language kA matalaba kyA hai? Collection
+of all the possible
+String, Collection of
+Strings
+jaise English is a Language
+aba English Language meM Apa kaha sakate ho
+Collection of all String, Collection of
+all String kA matalaba sAre ke sAre Sentences
+sAre ke sAre Words kI Collection
+ko Apa kyA bola sakate haiM eka taraha se
+Language aura agara hama Programming ve se bAta kareM
+to jaise C Program kI bAta kareM
+to C Program kA matalaba kyA hai? agara Apako
+Question AtA hai Write a C Program
+aba Write a C Program akShala meM kyA hai?
+eka taraha se String hai
+Apa eka Program likha rahe ho Let's say Sum of
+Two Numbers, aba Sum of Two Numbers kA agara Apa
+Program likha rahe ho vo matalaba Apa kyA likha rahe ho
+eka String likha rahe ho eka taraha se Apa
+se yahA.N para Start karate haiM pUre ke
+pUre Point, to sabase pahale hamAre pAsa kyA diyA ho
+hai yahA.N para? sabase pahale
+Question meM hameM diyA huA hai Sigma
+Sigma hamAre pAsa kyA hai?
+Sigma hai A
+and B, matalaba hamAre pAsa
+do hI Alpha baiTe haiM A
+aura B, to dekho aba Apako
+Apako yahA.N para Language pUChA jAe
+aba Language kyA hai? Collection of String
+aba Let's Fail, lekina Language maiM Apako
+bola dU.N ki You have to write down a
+Language L1
+and Language L1 is what? Collection
+of all strings
+of
+length
+3, Collection of all the
+strings of length 3
+aba dekho yahA.N para hamane kyA likhA?
+AAA, aba yaha AA kyA hai?
+One of the String hai, aba
+ABA kyA hai? One of the String hai
+yaha bhI eka String hai, yaha bhI eka String hai
+yaha sArI kyA hai?
+eka-eka String. aba inakI Collection ko
+pUrI kI pUrI Collection ko maiM kyA bola sakatA hU.N?
+yaha pUrI kI pUrI Collection kyA hai?
+eka taraha se Language hai. aba agara Apako
+Language meM sArI kI sArI
+sTriMga of length 3 chAhie
+to Apa isako bola sakate ho kyA
+yaha hai language L1
+kyoMki yaha 1 AAA kyA hai
+one of the string
+one of the possible string
+kyoMki string kyA hai
+sequence of number
+sequence of alphabet
+to AAA, ABB
+yaha sArI kI sArI kyA hai
+Apako eka language hai
+jisakI length kitanI hai 3
+aba aisI language jo hai
+jirUrI nahIM hai ki yaha finite hogI hai
+infinite
+aba dekho
+length of 3 meM kitanI hai
+isa language meM kitanI string hai
+1, 2, 3, 4, 5, 6, 7, 8
+to 8 number of strings hai
+isa language meM L1 meM
+aba isako kyA bola sakate ho
+finite yA infinite
+obviously yaha kyA hai
+finite language hai
+lekina jo language hai
+it can be infinite also
+kaise
+infinite kaise ho sakatI hai
+let's suppose
+ki agara hama bolate hai
+you have to write a language
+in which all the strings
+all the strings
+should be
+should start from
+yA start with A
+end with A
+isa tarIke se Apako bola diyA jAe
+ki Apako vo language likhanI hai
+usa language ke aMdara
+sArI ke sArI strings jo hai
+vo start with A honI chAhie
+end with A honI chAhie
+aba start with A
+aura end with A kA matalaba kyA
+alphabet apke A aura B hai
+alphabet apke fix kara dI
+A aura B
+aba koI bhI le sakate ho
+A, B, C bhI le sakate ho
+lekina A aura B se bhI ApakA kAma ho jAegA
+to dekho start with A
+end with A
+dUsarI kyA ho sakatI hai
+start with A
+to yaha bhI start with A hai
+aura kyA ho sakatI hai
+to dekho isa tarIke se ApakI
+infinite number of
+yahA.N pe strings possible hai
+aura iske lAvA hamAre pAsa possible hai
+let's suppose A, B, A
+yaha bhI one of the possible string hai
+dekho starting with A hai
+ending with A hai
+iske lAvA hamAre pAsa A, B, B, A
+A, B, B, B, A
+to dekho yaha sArI jo hai vo
+infinite strings hai
+aura obviously infinite bana rahI hai
+to merI jo language hai
+vo bhI kyA banegI
+infinite banegI
+to agara Apako question meM A rahA hai
+ki language should be finite
+to Apa kaha sakate ho jaise yaha example hai
+that is string
+all the strings of length 3
+all the strings of length 2
+all the strings of length 1
+even all the strings of length 0
+length 0 bhI ho sakatI hai
+length 0 kA matalaba hai
+ki koI bhI option yahA.N pe nahIM ho
+matalaba koI nA to A honA chAhie nA B honA chAhie
+jisako Apa kyA le sakate ho
+sigma power 0
+aba sigma power 0 matalaba ki koI bhI yahA.N pe
+string meM nahIM AnA chAhie
+to yahA.N pe usko hama kyA bolate hai
+epsilon yahA.N pe bolate hai
+aura yaha sAre point jo hai vo important hai
+language se related kyoMki language
+ke upara Apa se pUCha sakate hai ki language can be finite
+it can be infinite to yes
+starting with only a, starting with a
+ending with b yaha sArI jo hai vo
+infinite language ke example hai
+aura agara Apako fix karate hai ki length
+2 honI chAhie, 3 honI chAhie, 4
+honI chAhie Apa kaha sakate ho
+finite language ke examples hai
+so this is all about the basic
+points of language to next video
+meM hama start kareMge automata
+se related aura yaha sArI videos jo hai vo
+linked hai Apako eka eka karake
+jo hai vo check karanI hai kyoMki yaha sAre
+points agara Apa nahIM check karoge yaha sAre
+points agara Apa nahIM note down karoge
+to TOC isa tarIke se Apako
+samajha nahIM AegI, thank you

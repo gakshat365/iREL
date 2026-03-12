@@ -1,3 +1,62 @@
-task/
+# === Python ===
+__pycache__/
+*.py[cod]
+*$py.class
+*.pyo
+*.pyd
+*.egg
+*.egg-info/
+dist/
+build/
+.eggs/
+*.whl
+MANIFEST
+
+# === Virtual Environments ===
 venv/
-requirements.txt
+.venv/
+env/
+ENV/
+.env
+
+# === Jupyter ===
+.ipynb_checkpoints/
+*.ipynb_checkpoints
+
+# === Audio / Video downloads (large binaries) ===
+complex/data/raw/*.wav
+complex/data/raw/*.mp3
+complex/data/raw/*.m4a
+complex/data/raw/*.webm
+complex/data/raw/*.opus
+complex/data/raw/*.flac
+
+# === Model caches ===
+# Whisper model weights
+~/.cache/whisper/
+# HuggingFace / sentence-transformers
+~/.cache/huggingface/
+# NLTK corpora
+nltk_data/
+
+# === OS ===
+.DS_Store
+Thumbs.db
+desktop.ini
+ehthumbs.db
+
+# === IDEs ===
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
+
+# === Logs / Temp ===
+*.log
+*.tmp
+*.bak
+*.swp
+*.swo
+
+# === spaCy models (downloaded at runtime) ===
+en_core_web_*/

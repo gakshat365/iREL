@@ -1,0 +1,23 @@
+{
+    "pumping lemma wala concept": "pumping lemma",
+    "chomsky normal form mein": "chomsky normal form",
+    "push down automata machine": "pushdown automata",
+    "turing machine wali machine": "turing machine",
+    "turing machine ki tarah": "turing machine equivalent",
+    "regular lang": "regular language",
+    "context free lang": "context free language",
+    "cfl": "context free language",
+    "cfg": "context free grammar",
+    "pda": "pushdown automata",
+    "dfa": "deterministic finite automata",
+    "nfa": "nondeterministic finite automata",
+    "ndfa": "nondeterministic finite automata",
+    "rec": "recursive language",
+    "re language": "recursively enumerable language",
+    "halting problem wala": "halting problem",
+    "kleene star": "kleene closure",
+    "sigma star": "kleene closure",
+    "plus closure": "positive closure",
+    "positive plus closure": "positive closure",
+    "lag": "language automata grammar"
+}

@@ -1,0 +1,223 @@
+[
+    {
+        "concept": "tape head",
+        "score": 0.005432605735443125,
+        "synonyms": [
+            "string head",
+            "head string",
+            "head ye string"
+        ]
+    },
+    {
+        "concept": "tape",
+        "score": 0.008896211741962843,
+        "synonyms": []
+    },
+    {
+        "concept": "string",
+        "score": 0.008480894715036151,
+        "synonyms": []
+    },
+    {
+        "concept": "tape state",
+        "score": 0.0075678013249040705,
+        "synonyms": []
+    },
+    {
+        "concept": "head tape",
+        "score": 0.007558024852831325,
+        "synonyms": [
+            "string head tape"
+        ]
+    },
+    {
+        "concept": "tape parse",
+        "score": 0.006844594978378654,
+        "synonyms": [
+            "parse tape"
+        ]
+    },
+    {
+        "concept": "head parse",
+        "score": 0.006682867584107855,
+        "synonyms": [
+            "parse head"
+        ]
+    },
+    {
+        "concept": "language",
+        "score": 0.006399917552098149,
+        "synonyms": []
+    },
+    {
+        "concept": "language head",
+        "score": 0.006118477743687926,
+        "synonyms": []
+    },
+    {
+        "concept": "state",
+        "score": 0.005737079397554661,
+        "synonyms": []
+    },
+    {
+        "concept": "language parse",
+        "score": 0.005654860400252968,
+        "synonyms": []
+    },
+    {
+        "concept": "parse",
+        "score": 0.005580843828740483,
+        "synonyms": []
+    },
+    {
+        "concept": "string language",
+        "score": 0.005471552643595066,
+        "synonyms": []
+    },
+    {
+        "concept": "tape iske",
+        "score": 0.0052177212860881755,
+        "synonyms": []
+    },
+    {
+        "concept": "tree string",
+        "score": 0.005089379251526261,
+        "synonyms": []
+    },
+    {
+        "concept": "tree",
+        "score": 0.004998390856482255,
+        "synonyms": []
+    },
+    {
+        "concept": "state head",
+        "score": 0.004898196763070245,
+        "synonyms": [
+            "head state"
+        ]
+    },
+    {
+        "concept": "state haim",
+        "score": 0.004761952409840701,
+        "synonyms": []
+    },
+    {
+        "concept": "language parse head",
+        "score": 0.004733397399836116,
+        "synonyms": []
+    },
+    {
+        "concept": "number string",
+        "score": 0.004476620723148436,
+        "synonyms": []
+    },
+    {
+        "concept": "string tape",
+        "score": 0.004452087355564365,
+        "synonyms": []
+    },
+    {
+        "concept": "power tape",
+        "score": 0.0043779707072502,
+        "synonyms": []
+    },
+    {
+        "concept": "head tree",
+        "score": 0.00424746569622143,
+        "synonyms": []
+    },
+    {
+        "concept": "string length",
+        "score": 0.004212792158832227,
+        "synonyms": []
+    },
+    {
+        "concept": "haim tape",
+        "score": 0.004137651601085831,
+        "synonyms": [
+            "tape haim"
+        ]
+    },
+    {
+        "concept": "tarike tape",
+        "score": 0.004111822950703585,
+        "synonyms": []
+    },
+    {
+        "concept": "string language parse",
+        "score": 0.004051795933852113,
+        "synonyms": []
+    },
+    {
+        "concept": "parse state",
+        "score": 0.004018334496086401,
+        "synonyms": []
+    },
+    {
+        "concept": "string apaki",
+        "score": 0.0038511231363192503,
+        "synonyms": []
+    },
+    {
+        "concept": "tape language",
+        "score": 0.0038010286323016543,
+        "synonyms": [
+            "language tape"
+        ]
+    },
+    {
+        "concept": "haim parse",
+        "score": 0.0037925118211773064,
+        "synonyms": []
+    },
+    {
+        "concept": "karoge tape",
+        "score": 0.003622869583533596,
+        "synonyms": []
+    },
+    {
+        "concept": "state tape",
+        "score": 0.0035464176110008784,
+        "synonyms": []
+    },
+    {
+        "concept": "string string",
+        "score": 0.003529977352332274,
+        "synonyms": []
+    },
+    {
+        "concept": "head parse tape",
+        "score": 0.0034501466516273635,
+        "synonyms": []
+    },
+    {
+        "concept": "kitani string",
+        "score": 0.003435061279950381,
+        "synonyms": []
+    },
+    {
+        "concept": "tape note",
+        "score": 0.003427618250342097,
+        "synonyms": []
+    },
+    {
+        "concept": "string ending",
+        "score": 0.003415486659564334,
+        "synonyms": []
+    },
+    {
+        "concept": "maim string",
+        "score": 0.003404462385995013,
+        "synonyms": []
+    },
+    {
+        "concept": "grammar",
+        "score": 0.0033677512402850557,
+        "synonyms": []
+    },
+    {
+        "concept": "vo tape",
+        "score": 0.0033645389917797692,
+        "synonyms": []
+    }
+]

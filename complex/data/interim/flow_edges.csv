@@ -1,0 +1,120 @@
+source,target,confidence,signal_type,evidence
+tape,language parse,0.24,positional_refd,Positional offset evidence across corpus.
+tape,string language,0.24,positional_refd,Positional offset evidence across corpus.
+tape,karoge tape,0.24,positional_refd,Positional offset evidence across corpus.
+tape,tape note,0.24,positional_refd,Positional offset evidence across corpus.
+string,tape note,0.24,positional_refd,Positional offset evidence across corpus.
+string,vo tape,0.24,positional_refd,Positional offset evidence across corpus.
+tape state,string,0.36,positional_refd,Positional offset evidence across corpus.
+tape state,head tape,0.24,positional_refd,Positional offset evidence across corpus.
+tape state,parse,0.36,positional_refd,Positional offset evidence across corpus.
+tape state,string tape,0.24,positional_refd,Positional offset evidence across corpus.
+head tape,string,0.4,positional_refd,Positional offset evidence across corpus.
+head tape,tape parse,0.24,positional_refd,Positional offset evidence across corpus.
+head tape,head parse,0.24,positional_refd,Positional offset evidence across corpus.
+head tape,language head,0.4,positional_refd,Positional offset evidence across corpus.
+head tape,tree string,0.24,positional_refd,Positional offset evidence across corpus.
+head tape,state head,0.36,positional_refd,Positional offset evidence across corpus.
+head tape,parse state,0.24,positional_refd,Positional offset evidence across corpus.
+tape parse,head tape,0.24,positional_refd,Positional offset evidence across corpus.
+tape parse,language,0.24,positional_refd,Positional offset evidence across corpus.
+tape parse,tree,0.24,positional_refd,Positional offset evidence across corpus.
+tape parse,state head,0.24,positional_refd,Positional offset evidence across corpus.
+tape parse,parse state,0.24,positional_refd,Positional offset evidence across corpus.
+head parse,string,0.36,positional_refd,Positional offset evidence across corpus.
+head parse,head tape,0.24,positional_refd,Positional offset evidence across corpus.
+head parse,language,0.36,positional_refd,Positional offset evidence across corpus.
+head parse,language head,0.24,positional_refd,Positional offset evidence across corpus.
+head parse,state,0.36,positional_refd,Positional offset evidence across corpus.
+head parse,tree,0.36,positional_refd,Positional offset evidence across corpus.
+head parse,state head,0.24,positional_refd,Positional offset evidence across corpus.
+head parse,string tape,0.24,positional_refd,Positional offset evidence across corpus.
+head parse,tape note,0.24,positional_refd,Positional offset evidence across corpus.
+head parse,vo tape,0.24,positional_refd,Positional offset evidence across corpus.
+language,tape state,0.36,positional_refd,Positional offset evidence across corpus.
+language,head tape,0.4,positional_refd,Positional offset evidence across corpus.
+language,tape parse,0.24,positional_refd,Positional offset evidence across corpus.
+language,language head,0.4,positional_refd,Positional offset evidence across corpus.
+language,language parse,0.24,positional_refd,Positional offset evidence across corpus.
+language,string tape,0.24,positional_refd,Positional offset evidence across corpus.
+language,parse state,0.24,positional_refd,Positional offset evidence across corpus.
+language,karoge tape,0.24,positional_refd,Positional offset evidence across corpus.
+language,tape note,0.24,positional_refd,Positional offset evidence across corpus.
+language,vo tape,0.24,positional_refd,Positional offset evidence across corpus.
+language head,head tape,0.36,positional_refd,Positional offset evidence across corpus.
+language head,tape parse,0.24,positional_refd,Positional offset evidence across corpus.
+language head,head parse,0.24,positional_refd,Positional offset evidence across corpus.
+language head,tree string,0.24,positional_refd,Positional offset evidence across corpus.
+language head,tree,0.24,positional_refd,Positional offset evidence across corpus.
+language head,state head,0.36,positional_refd,Positional offset evidence across corpus.
+language head,parse state,0.24,positional_refd,Positional offset evidence across corpus.
+state,tape state,0.36,positional_refd,Positional offset evidence across corpus.
+state,language head,0.4,positional_refd,Positional offset evidence across corpus.
+state,language parse,0.24,positional_refd,Positional offset evidence across corpus.
+state,string language,0.24,positional_refd,Positional offset evidence across corpus.
+state,parse state,0.24,positional_refd,Positional offset evidence across corpus.
+state,karoge tape,0.24,positional_refd,Positional offset evidence across corpus.
+state,tape note,0.24,positional_refd,Positional offset evidence across corpus.
+language parse,tape,0.24,positional_refd,Positional offset evidence across corpus.
+language parse,string,0.24,positional_refd,Positional offset evidence across corpus.
+language parse,state,0.24,positional_refd,Positional offset evidence across corpus.
+language parse,string language,0.24,positional_refd,Positional offset evidence across corpus.
+language parse,state head,0.24,positional_refd,Positional offset evidence across corpus.
+language parse,karoge tape,0.24,positional_refd,Positional offset evidence across corpus.
+parse,language head,0.4,positional_refd,Positional offset evidence across corpus.
+parse,string tape,0.24,positional_refd,Positional offset evidence across corpus.
+parse,parse state,0.24,positional_refd,Positional offset evidence across corpus.
+parse,karoge tape,0.24,positional_refd,Positional offset evidence across corpus.
+string language,state,0.24,positional_refd,Positional offset evidence across corpus.
+string language,tree,0.24,positional_refd,Positional offset evidence across corpus.
+string language,state head,0.24,positional_refd,Positional offset evidence across corpus.
+tree string,head tape,0.24,positional_refd,Positional offset evidence across corpus.
+tree string,tape parse,0.24,positional_refd,Positional offset evidence across corpus.
+tree string,language,0.24,positional_refd,Positional offset evidence across corpus.
+tree string,state,0.24,positional_refd,Positional offset evidence across corpus.
+tree string,parse,0.24,positional_refd,Positional offset evidence across corpus.
+tree string,tree,0.24,positional_refd,Positional offset evidence across corpus.
+tree string,state head,0.24,positional_refd,Positional offset evidence across corpus.
+tree string,parse state,0.24,positional_refd,Positional offset evidence across corpus.
+tree,string,0.4,positional_refd,Positional offset evidence across corpus.
+tree,tape state,0.36,positional_refd,Positional offset evidence across corpus.
+tree,head tape,0.4,positional_refd,Positional offset evidence across corpus.
+tree,head parse,0.36,positional_refd,Positional offset evidence across corpus.
+tree,language head,0.36,positional_refd,Positional offset evidence across corpus.
+tree,string language,0.24,positional_refd,Positional offset evidence across corpus.
+tree,state head,0.4,positional_refd,Positional offset evidence across corpus.
+tree,string tape,0.24,positional_refd,Positional offset evidence across corpus.
+tree,karoge tape,0.24,positional_refd,Positional offset evidence across corpus.
+tree,tape note,0.24,positional_refd,Positional offset evidence across corpus.
+tree,grammar,0.36,positional_refd,Positional offset evidence across corpus.
+tree,vo tape,0.24,positional_refd,Positional offset evidence across corpus.
+state head,string,0.4,positional_refd,Positional offset evidence across corpus.
+state head,tape state,0.36,positional_refd,Positional offset evidence across corpus.
+state head,head parse,0.24,positional_refd,Positional offset evidence across corpus.
+state head,language head,0.24,positional_refd,Positional offset evidence across corpus.
+state head,tree,0.4,positional_refd,Positional offset evidence across corpus.
+state head,string tape,0.24,positional_refd,Positional offset evidence across corpus.
+state head,grammar,0.36,positional_refd,Positional offset evidence across corpus.
+state head,vo tape,0.24,positional_refd,Positional offset evidence across corpus.
+string tape,language,0.24,positional_refd,Positional offset evidence across corpus.
+parse state,tape,0.24,positional_refd,Positional offset evidence across corpus.
+parse state,string,0.24,positional_refd,Positional offset evidence across corpus.
+parse state,language,0.24,positional_refd,Positional offset evidence across corpus.
+parse state,tree,0.24,positional_refd,Positional offset evidence across corpus.
+parse state,state head,0.24,positional_refd,Positional offset evidence across corpus.
+karoge tape,string,0.24,positional_refd,Positional offset evidence across corpus.
+karoge tape,language,0.24,positional_refd,Positional offset evidence across corpus.
+karoge tape,parse,0.24,positional_refd,Positional offset evidence across corpus.
+karoge tape,tree,0.24,positional_refd,Positional offset evidence across corpus.
+tape note,tape,0.24,positional_refd,Positional offset evidence across corpus.
+grammar,string,0.36,positional_refd,Positional offset evidence across corpus.
+grammar,tape state,0.36,positional_refd,Positional offset evidence across corpus.
+grammar,head tape,0.24,positional_refd,Positional offset evidence across corpus.
+grammar,head parse,0.24,positional_refd,Positional offset evidence across corpus.
+grammar,language head,0.24,positional_refd,Positional offset evidence across corpus.
+grammar,state head,0.36,positional_refd,Positional offset evidence across corpus.
+grammar,string tape,0.24,positional_refd,Positional offset evidence across corpus.
+grammar,vo tape,0.24,positional_refd,Positional offset evidence across corpus.
+vo tape,language,0.24,positional_refd,Positional offset evidence across corpus.
+vo tape,tree,0.24,positional_refd,Positional offset evidence across corpus.
+vo tape,string tape,0.24,positional_refd,Positional offset evidence across corpus.
