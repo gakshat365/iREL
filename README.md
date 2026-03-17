@@ -6,7 +6,6 @@ A 9-step NLP pipeline that processes Hinglish (Hindi-English code-mixed) YouTube
 
 **Domain:** Theory of Computation (Gate Smashers, 5 lectures)  
 **Output:** JSON-LD knowledge graph + interactive `vis.js` HTML dashboard  
-**Demo:** [Watch demo video](https://drive.google.com/file/d/1eRlrx_bFD6k6IZemwW0BUoniYBr-juIp/view?usp=sharing)
 
 ---
 
